@@ -1,4 +1,4 @@
-# .github# 🚀 ARDA Project Master Guide
+🚀 ARDA Project Master Guide
 
 ---
 
