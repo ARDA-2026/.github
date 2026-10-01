@@ -1,6 +1,5 @@
 ![ARDA 하천 표류 예측 및 수색 지원 시스템](https://raw.githubusercontent.com/ARDA-2026/.github/main/profile/assets/arda-project.jpg)
 
-# ARDA
 ### 하천 표류 예측 및 수색 지원 시스템
 
 > **신고 이전 단계부터 사고를 감지하고, 표류 예측으로 우선 수색 구역을 제시합니다.**
